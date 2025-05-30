@@ -6,15 +6,16 @@
 - **Especialidades:** Análisis numérico, reportes (KPI’s, costos), tableros visuales.
 - **Herramientas:** Python, SQL, Power BI, Tableau, Streamlit, Excel.
 - **Habilidades blandas:** Comunicación, trabajo en equipo, resolución de problemas.
-- **Experiencia:** Proyecto de análisis de anuncios de coches y sprints de TripleTen.
+- **Experiencia:** Proyectos en TripleTen, incluyendo análisis de videojuegos, comportamiento de usuarios, operadores ineficaces y más.
 - **Contacto:**  
   - [LinkedIn](linkedin.com/in/adriangalvanzamora)  
   - Correo: adriangalvanzamora@gmail.com  
 
 ## Proyectos Destacados
-- **[Análisis de Anuncios de Coches](ruta-al-repositorio):** Análisis de tendencias de precios con Python, SQL, y Streamlit (Mayo 2025).
-- **[Sprint 1 - [Nombre del Proyecto]](ruta-al-repositorio):** [Descripción breve, ej. Análisis básico con SQL].
-- **[Sprint 2 - [Nombre del Proyecto]](ruta-al-repositorio):** [Descripción breve, ej. Visualización en Power BI].
+- **[Análisis de Ventas de Videojuegos para Ice](https://github.com/adriangalvanzamora/videojuegos-ice-analysis):** Análisis de datos históricos de videojuegos (2016) para identificar patrones de éxito (Marzo 2025).
+- **[Análisis del Comportamiento del Usuario para Aplicación de Alimentos](https://github.com/adriangalvanzamora/comportamiento-usuario-alimentos):** Análisis del embudo de ventas y test A/A/B (Abril 2025).
+- **[Identificación de Operadores Ineficaces en CallMeMaybe](https://github.com/adriangalvanzamora/operadores-ineficaces-callmemaybe):** Análisis de rendimiento de operadores con pruebas de hipótesis (Abril 2025).
+- **[Proyecto de Pruebas A/B para Tienda Online](https://github.com/adriangalvanzamora/ab-testing-tienda-online):** Análisis de un test A/B para una tienda online (Abril 2025).
 
 ## Comunidades
 - Colaborador en [Data Analyst](https://t.me/sqlspecialist) y [Data Engineering Latam](https://t.me/dataengineeringlatam).
