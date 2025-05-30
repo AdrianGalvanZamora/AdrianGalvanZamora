@@ -1,16 +1,22 @@
-## Hi there 👋
+# Adrián Eduardo Galván Zamora - Data Analyst Portfolio
 
-<!--
-**AdrianGalvanZamora/AdrianGalvanZamora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Hola! Soy Adrián, un Analista de Datos Jr. recién egresado de TripleTen y el programa de Análisis de Datos de Google. Me apasiona transformar datos en insights accionables con Python, SQL, Power BI, Tableau y Google Analytics.
 
-Here are some ideas to get you started:
+## Sobre mí
+- **Especialidades:** Análisis numérico, reportes (KPI’s, costos), tableros visuales.
+- **Herramientas:** Python, SQL, Power BI, Tableau, Streamlit, Excel.
+- **Habilidades blandas:** Comunicación, trabajo en equipo, resolución de problemas.
+- **Experiencia:** Proyecto de análisis de anuncios de coches y sprints de TripleTen.
+- **Contacto:**  
+  - [LinkedIn](linkedin.com/in/adriangalvanzamora)  
+  - Correo: adriangalvanzamora@gmail.com  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Proyectos Destacados
+- **[Análisis de Anuncios de Coches](ruta-al-repositorio):** Análisis de tendencias de precios con Python, SQL, y Streamlit (Mayo 2025).
+- **[Sprint 1 - [Nombre del Proyecto]](ruta-al-repositorio):** [Descripción breve, ej. Análisis básico con SQL].
+- **[Sprint 2 - [Nombre del Proyecto]](ruta-al-repositorio):** [Descripción breve, ej. Visualización en Power BI].
+
+## Comunidades
+- Colaborador en [Data Analyst](https://t.me/sqlspecialist) y [Data Engineering Latam](https://t.me/dataengineeringlatam).
+
+¡Abierto a oportunidades! Contacta conmigo.
