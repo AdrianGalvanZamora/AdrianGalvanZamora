@@ -22,4 +22,4 @@
 - Colaborador en [Data Analyst](https://t.me/sqlspecialist) y [Data Engineering Latam](https://t.me/dataengineeringlatam).
 
 ## Notas
-- Este portafolio se actualizó el 29 de mayo de 2025. ¡Estoy abierto a oportunidades! Contacta conmigo para colaborar o discutir proyectos.
+- Este portafolio se actualizó el 05 de septiembre de 2025. ¡Estoy abierto a oportunidades! Contacta conmigo para colaborar o discutir proyectos.
