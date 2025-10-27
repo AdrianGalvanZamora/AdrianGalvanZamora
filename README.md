@@ -1,4 +1,5 @@
-# Adrián Eduardo Galván Zamora — Data Analyst Portfolio
+<!-- BANNER SUPERIOR -->
+![Adrián Eduardo Galván Zamora | Data Analyst](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Adrián%20Eduardo%20Galván%20Zamora%20%7C%20Data%20Analyst&fontSize=26&fontAlignY=35&desc=Turning%20Data%20into%20Decisions&descAlignY=55&animation=fadeIn)
 
 ## 🇺🇸 About Me
 
@@ -87,3 +88,5 @@ Análisis exploratorio de datos de anuncios de coches con **Python y SQL**, iden
 ---
 
 📅 **Actualizado en octubre de 2025** — ¡Abierto a nuevas oportunidades en análisis de datos!
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
