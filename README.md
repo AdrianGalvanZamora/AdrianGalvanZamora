@@ -1,90 +1,70 @@
-<!-- BANNER SUPERIOR -->
-![Adrián Eduardo Galván Zamora | Data Analyst](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Adrián%20Eduardo%20Galván%20Zamora%20%7C%20Data%20Analyst&fontSize=26&fontAlignY=35&desc=Turning%20Data%20into%20Decisions&descAlignY=55&animation=fadeIn)
-## 🇺🇸 About Me
+![Adrián Eduardo Galván Zamora | Data Analyst](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Adrián%20Eduardo%20Galván%20Zamora%20%7C%20Data%20Analyst&fontSize=26&fontAlignY=35&desc=Bilingual%20Analyst%20%7C%20Python%20%26%20SQL&descAlignY=55&animation=fadeIn)
 
-Hi there! I'm **Adrián**, a **Junior Data Analyst** passionate about transforming data into actionable insights.  
-Graduated from **TripleTen Bootcamp** and the **Google Data Analytics Program (2025)**, I specialize in using **Python, SQL, Power BI, Tableau, Streamlit, and Google Analytics** to explore data, validate hypotheses, and create meaningful visualizations.
+## 🚀 About Me
 
-### 🎯 Core Skills
-- **Specialties:** Exploratory analysis, KPI reporting, cost and performance analysis, hypothesis testing.  
-- **Tools:** Python, SQL, Power BI, Tableau, Streamlit, Excel, Jupyter Notebook.  
-- **Soft Skills:** Communication, teamwork, problem-solving, attention to detail.  
-- **Experience:** Hands-on projects analyzing user behavior, sales funnels, operational efficiency, and digital products.  
-- **Education:**  
-  - Data Analytics Bootcamp — *TripleTen* (2025)  
-  - Google Data Analytics Certificate — *Google* (2025)
+Hi! I'm **Adrián**, a **Bilingual Data Analyst** based in the Mexican Caribbean.
+I bridge the gap between raw data and business strategy. With a background as a **Professional Interpreter**, I possess a unique ability to communicate complex insights to stakeholders clearly and effectively.
 
----
+I specialize in **Revenue Optimization, User Behavior Analysis, and Operational Efficiency** using the modern data stack.
 
-## 💼 Featured Projects
-
-### 🎮 [Video Game Sales Analysis for Ice](https://github.com/adriangalvanzamora/videojuegos-ice-analysis)
-Analyzed historical video game sales data (up to 2016) to uncover success patterns and predict top-performing genres and platforms for 2017.  
-Includes exploratory analysis, visualization, and hypothesis testing with **Python (pandas, matplotlib, seaborn, scipy)**.  
-*Completed: March 2025.*
-
-### 🍔 [User Behavior Analysis for Food App](https://github.com/adriangalvanzamora/comportamiento-usuario-alimentos)
-Evaluated conversion funnels and conducted an **A/A/B test** to assess the impact of a font change on user engagement.  
-Includes funnel metrics, user retention, and statistical testing.  
-*Completed: April 2025.*
-
-### ☎️ [Inefficient Operator Detection — CallMeMaybe](https://github.com/adriangalvanzamora/operadores-ineficaces)
-Identified underperforming telecom operators using event data and KPI analysis.  
-Applied statistical testing and created performance dashboards with **Tableau**.  
-*Completed: April 2025.*
-
-### 🚗 [Car Ads Analysis — Price Trends & App Dashboard](https://github.com/adriangalvanzamora/analisis-anuncios-coches)
-Explored car listing data using **Python and SQL**, identifying key price determinants and building an interactive **Streamlit dashboard** for visualization.  
-*Completed: May 2025.*
+### 🛠 Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+</p>
 
 ---
 
-## 🌐 Communities & Contact
-- Contributor at **Data Analyst Latam** and **Data Engineering Latam**.  
-- 📧 Email: [adriangalvanzamora@gmail.com](mailto:adriangalvanzamora@gmail.com)  
-- 💼 [LinkedIn](https://linkedin.com/in/adriangalvanzamora)
+## 💼 Portfolio: Solving Real Business Problems
 
-_Last updated: October 2025 — open to data analysis opportunities and collaborations._
+### 🎮 [Global Gaming Market Strategy | Predictive Analysis](https://github.com/adriangalvanzamora/videojuegos-ice-analysis)
+**The Business Problem:** An online store needed to identify which video game genres and platforms would drive the most revenue in the upcoming year to optimize their advertising budget.
+* **Key Insight:** Identified a declining trend in legacy platforms and pinpointed 2 specific genres responsible for 60% of high-margin sales.
+* **Tech Stack:** Python (Pandas, Scipy for Hypothesis Testing), Matplotlib.
 
----
+### 🍔 [Food Delivery App | User Conversion Optimization (A/B Testing)](https://github.com/adriangalvanzamora/comportamiento-usuario-alimentos)
+**The Business Problem:** The UX team wanted to know if changing the fonts would increase user conversion through the sales funnel.
+* **Key Insight:** Conducted an **A/A/B test** on 240k+ logs. Proved statistically that the design change had *no significant impact* on conversion, saving the company from an unnecessary and costly UI overhaul.
+* **Tech Stack:** Python (Seaborn, Plotly), Statistical Significance Testing.
 
-## 🇲🇽 Sobre mí
+### ☎️ [Telecom Efficiency Dashboard | Tableau](https://github.com/adriangalvanzamora/operadores-ineficaces)
+**The Business Problem:** A virtual telephony service needed to reduce operational costs by identifying ineffective operators who missed calls or had high wait times.
+* **Key Insight:** Developed a dynamic dashboard that flagged underperforming agents based on custom KPIs, allowing management to target training resources effectively.
+* **Tech Stack:** Tableau (Dashboards & Storytelling), Data Cleaning.
 
-¡Hola! Soy **Adrián**, un **Analista de Datos Jr.** apasionado por transformar datos en insights accionables.  
-Egresado del **Bootcamp de TripleTen** y del **Certificado de Análisis de Datos de Google (2025)**.  
-Trabajo con **Python, SQL, Power BI, Tableau, Streamlit y Google Analytics**, aplicando análisis exploratorio, visualización y pruebas de hipótesis para generar valor real.
-
-### 🎯 Habilidades Principales
-- **Especialidades:** Análisis exploratorio, reportes de KPI y costos, eficiencia operativa, pruebas estadísticas.  
-- **Herramientas:** Python, SQL, Power BI, Tableau, Streamlit, Excel, Jupyter Notebook.  
-- **Habilidades blandas:** Comunicación, trabajo en equipo, resolución de problemas, atención al detalle.  
-- **Experiencia:** Proyectos enfocados en comportamiento de usuario, embudos de venta, rendimiento de operadores y análisis de productos digitales.  
-- **Educación:**  
-  - Bootcamp de Analista de Datos — *TripleTen (2025)*  
-  - Certificado de Análisis de Datos — *Google (2025)*
+### 🚗 [Used Car Price Predictor | Streamlit Web App](https://github.com/adriangalvanzamora/analisis-anuncios-coches)
+**The Business Problem:** Sellers struggled to price their vehicles competitively without historical data.
+* **The Solution:** Built an interactive web application that analyzes market trends based on vehicle age, condition, and odometer reading.
+* **Tech Stack:** Python, Streamlit (Web Deployment), SQL.
 
 ---
 
-## 💼 Proyectos Destacados
+<details>
+<summary><strong>🇲🇽 Versión en Español (Click para desplegar)</strong></summary>
 
-### 🎮 [Análisis de Ventas de Videojuegos para Ice](https://github.com/adriangalvanzamora/videojuegos-ice-analysis)
-Análisis de datos históricos de videojuegos (hasta 2016) para identificar patrones de éxito y planificar estrategias de mercado para 2017.  
-Incluye análisis exploratorio, visualización y pruebas de hipótesis con **Python (pandas, matplotlib, seaborn, scipy)**.  
-*Marzo 2025.*
+### Sobre mí
+¡Hola! Soy **Adrián**, Analista de Datos Bilingüe.
+Combino habilidades técnicas con una fuerte capacidad de comunicación (gracias a mi experiencia como intérprete). Me especializo en transformar datos complejos en decisiones de negocio claras.
 
-### 🍔 [Análisis del Comportamiento del Usuario para Aplicación de Alimentos](https://github.com/adriangalvanzamora/comportamiento-usuario-alimentos)
-Evaluación del embudo de conversión y resultados de un **test A/A/B** para medir el impacto de cambios visuales en la experiencia del usuario.  
-*Abril 2025.*
+### Proyectos Destacados (Resumen)
+* **Estrategia de Mercado de Videojuegos:** Modelo predictivo para optimizar presupuesto publicitario identificando géneros de alto rendimiento.
+* **Optimización de App de Delivery:** Test A/B para validar cambios de UX, evitando gastos innecesarios en rediseños sin impacto.
+* **Eficiencia Operativa en Telecom:** Dashboard en Tableau para identificar operadores ineficaces y mejorar el ROI del Call Center.
+* **Predictor de Precios de Coches:** Web App interactiva (Streamlit) para análisis de mercado en tiempo real.
 
-### ☎️ [Identificación de Operadores Ineficaces — CallMeMaybe](https://github.com/adriangalvanzamora/operadores-ineficaces)
-Análisis de rendimiento de operadores en telecomunicaciones mediante KPI y pruebas estadísticas, con visualizaciones en **Tableau**.  
-*Abril 2025.*
-
-### 🚗 [Análisis de Anuncios de Coches — Tendencias de Precio y Dashboard](https://github.com/adriangalvanzamora/analisis-anuncios-coches)
-Análisis exploratorio de datos de anuncios de coches con **Python y SQL**, identificando determinantes de precios y creando un **dashboard en Streamlit**.  
-*Mayo 2025.*
+</details>
 
 ---
 
-📅 **Actualizado en octubre de 2025** — ¡Abierto a nuevas oportunidades en análisis de datos!
+## 🌐 Let's Connect
+I am currently **open to remote roles** worldwide.
+
+- 📧 **Email:** [adriangalvanzamora@gmail.com](mailto:adriangalvanzamora@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/adriangalvanzamora](https://linkedin.com/in/adriangalvanzamora)
+- 📍 **Location:** Mexican Caribbean (CST Timezone)
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
